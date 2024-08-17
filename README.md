@@ -1,7 +1,4 @@
-Below is the link to open the app:
-https://drive.google.com/file/d/1f9D6aUT4E82p0gqGgBnvWAONc8U8HTsx/view?usp=sharing
 
-or
 
 Installation
 
