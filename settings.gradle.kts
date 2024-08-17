@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Authentication"
+rootProject.name = "NumHunt"
 include(":app")
  
